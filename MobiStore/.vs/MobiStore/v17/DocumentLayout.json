@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Home\\Downloads\\MobiStore_Last_update\\MobiStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67FA87DF-C517-4A73-AA41-9C77FCD9A600}|MobiStore\\MobiStore.csproj|c:\\users\\home\\downloads\\mobistore_last_update\\mobistore\\mobistore\\services\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FA87DF-C517-4A73-AA41-9C77FCD9A600}|MobiStore\\MobiStore.csproj|solutionrelative:mobistore\\services\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FA87DF-C517-4A73-AA41-9C77FCD9A600}|MobiStore\\MobiStore.csproj|c:\\users\\home\\downloads\\mobistore_last_update\\mobistore\\mobistore\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67FA87DF-C517-4A73-AA41-9C77FCD9A600}|MobiStore\\MobiStore.csproj|solutionrelative:mobistore\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FA87DF-C517-4A73-AA41-9C77FCD9A600}|MobiStore\\MobiStore.csproj|c:\\users\\home\\downloads\\mobistore_last_update\\mobistore\\mobistore\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67FA87DF-C517-4A73-AA41-9C77FCD9A600}|MobiStore\\MobiStore.csproj|solutionrelative:mobistore\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FA87DF-C517-4A73-AA41-9C77FCD9A600}|MobiStore\\MobiStore.csproj|c:\\users\\home\\downloads\\mobistore_last_update\\mobistore\\mobistore\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67FA87DF-C517-4A73-AA41-9C77FCD9A600}|MobiStore\\MobiStore.csproj|solutionrelative:mobistore\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FA87DF-C517-4A73-AA41-9C77FCD9A600}|MobiStore\\MobiStore.csproj|c:\\users\\home\\downloads\\mobistore_last_update\\mobistore\\mobistore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67FA87DF-C517-4A73-AA41-9C77FCD9A600}|MobiStore\\MobiStore.csproj|solutionrelative:mobistore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FA87DF-C517-4A73-AA41-9C77FCD9A600}|MobiStore\\MobiStore.csproj|c:\\users\\home\\downloads\\mobistore_last_update\\mobistore\\mobistore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67FA87DF-C517-4A73-AA41-9C77FCD9A600}|MobiStore\\MobiStore.csproj|solutionrelative:mobistore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FA87DF-C517-4A73-AA41-9C77FCD9A600}|MobiStore\\MobiStore.csproj|c:\\users\\home\\downloads\\mobistore_last_update\\mobistore\\mobistore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FA87DF-C517-4A73-AA41-9C77FCD9A600}|MobiStore\\MobiStore.csproj|solutionrelative:mobistore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FA87DF-C517-4A73-AA41-9C77FCD9A600}|MobiStore\\MobiStore.csproj|c:\\users\\home\\downloads\\mobistore_last_update\\mobistore\\mobistore\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FA87DF-C517-4A73-AA41-9C77FCD9A600}|MobiStore\\MobiStore.csproj|solutionrelative:mobistore\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FA87DF-C517-4A73-AA41-9C77FCD9A600}|MobiStore\\MobiStore.csproj|c:\\users\\home\\downloads\\mobistore_last_update\\mobistore\\mobistore\\migrations\\20241019141439_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FA87DF-C517-4A73-AA41-9C77FCD9A600}|MobiStore\\MobiStore.csproj|solutionrelative:mobistore\\migrations\\20241019141439_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Home\\Downloads\\MobiStore_Last_update\\MobiStore\\MobiStore\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "MobiStore\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Home\\Downloads\\MobiStore_Last_update\\MobiStore\\MobiStore\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "MobiStore\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T14:17:07.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241019141439_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\Downloads\\MobiStore_Last_update\\MobiStore\\MobiStore\\Migrations\\20241019141439_mig1.cs",
+              "RelativeDocumentMoniker": "MobiStore\\Migrations\\20241019141439_mig1.cs",
+              "ToolTip": "C:\\Users\\Home\\Downloads\\MobiStore_Last_update\\MobiStore\\MobiStore\\Migrations\\20241019141439_mig1.cs",
+              "RelativeToolTip": "MobiStore\\Migrations\\20241019141439_mig1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:14:40.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Home\\Downloads\\MobiStore_Last_update\\MobiStore\\MobiStore\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MobiStore\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Home\\Downloads\\MobiStore_Last_update\\MobiStore\\MobiStore\\appsettings.Development.json",
+              "RelativeToolTip": "MobiStore\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T14:11:46.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\Downloads\\MobiStore_Last_update\\MobiStore\\MobiStore\\Services\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "MobiStore\\Services\\DatabaseInitializer.cs",
+              "ToolTip": "C:\\Users\\Home\\Downloads\\MobiStore_Last_update\\MobiStore\\MobiStore\\Services\\DatabaseInitializer.cs",
+              "RelativeToolTip": "MobiStore\\Services\\DatabaseInitializer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:15:54.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Home\\Downloads\\MobiStore_Last_update\\MobiStore\\MobiStore\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MobiStore\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Home\\Downloads\\MobiStore_Last_update\\MobiStore\\MobiStore\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "MobiStore\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAABYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T14:17:37.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Home\\Downloads\\MobiStore_Last_update\\MobiStore\\MobiStore\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "MobiStore\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Home\\Downloads\\MobiStore_Last_update\\MobiStore\\MobiStore\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "MobiStore\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T14:22:04.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\Downloads\\MobiStore_Last_update\\MobiStore\\MobiStore\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "MobiStore\\Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\Home\\Downloads\\MobiStore_Last_update\\MobiStore\\MobiStore\\Services\\EmailSender.cs",
+              "RelativeToolTip": "MobiStore\\Services\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:33:03.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\Downloads\\MobiStore_Last_update\\MobiStore\\MobiStore\\Program.cs",
+              "RelativeDocumentMoniker": "MobiStore\\Program.cs",
+              "ToolTip": "C:\\Users\\Home\\Downloads\\MobiStore_Last_update\\MobiStore\\MobiStore\\Program.cs",
+              "RelativeToolTip": "MobiStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:30:36.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Home\\Downloads\\MobiStore_Last_update\\MobiStore\\MobiStore\\appsettings.json",
+              "RelativeDocumentMoniker": "MobiStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\Home\\Downloads\\MobiStore_Last_update\\MobiStore\\MobiStore\\appsettings.json",
+              "RelativeToolTip": "MobiStore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T19:21:43.382Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
